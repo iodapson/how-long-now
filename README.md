@@ -11,7 +11,7 @@ cargo run -- -l 12 -m 3 -d 19 -o 4 -y 2023
 ```
 
 <code>
-</div>
+<div>
 <code><b>-l</b></code> is a compulsory argument that must be passed in. It represents the <b>hour</b> of your event.
 </div>
 
