@@ -28,5 +28,5 @@ cargo run -- -l 12 -m 3 -d 19 -o 4 -y 2023
 </div>
 
 <div>
-<code><b>-y</b</code> is an optional argument. It represents the <b>year</b> of your event with any four digit value.
+<code><b>-y</b></code> is an optional argument. It represents the <b>year</b> of your event with any four digit value.
 </div>
